@@ -1,2 +1,2 @@
 
-<img src="https://github.com/suhaassmh/suhaassmh/blob/main/suhaas-bitmoji-coffee.gif" width="200"> 
+<img src="https://github.com/suhaassmh/suhaassmh/blob/main/coffee.gif" width="200"> 
